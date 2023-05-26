@@ -3,7 +3,7 @@ This is a GUI menu-based program that supports manipulating the list data struct
 arrays and linked lists). It prompts the user to create an array, a 2D array and linked lists.
 The user then gets to sort the list, search for a value in the list and add to the list.
 
-#1. The window contains a menu bar with several options: "File," "One Dimensional Array," "Linked List," and "Two Dimensional Array."
+1. The window contains a menu bar with several options: "File," "One Dimensional Array," "Linked List," and "Two Dimensional Array."
 
 2. Explore the different options available in each menu to perform various actions.
       - In the "File" menu, you can select "About" to display information about 
